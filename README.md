@@ -1,10 +1,7 @@
----
 # VEX RolePlay
 ## Official Project Files
 
 **ZABRANIA SIĘ ROZPOWSZECHNIANIA, SPRZEDAŻY I KOPIOWANIA KODU BEZ ZGODY GŁÓWNEGO TWÓRCY, TJ. KACPER PŁACZEK.**
-
----
 
 Witamy w oficjalnym repozytorium projektu VEX RolePlay! 
 Tutaj znajdziesz wszystkie niezbędne pliki źródłowe do naszego serwera i interfejsu użytkownika.
@@ -18,5 +15,3 @@ Tutaj znajdziesz wszystkie niezbędne pliki źródłowe do naszego serwera i int
 
 * **Kacper 'xanax' Płaczek** - `Fullstack Developer`
 * **Kacper 'North'** - `Assets Developer`
-
----
